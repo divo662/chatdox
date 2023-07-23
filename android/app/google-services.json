@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "13888476870",
+    "project_id": "chatdox-401f7",
+    "storage_bucket": "chatdox-401f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13888476870:android:fe63f955e0b533bafaa9c7",
+        "android_client_info": {
+          "package_name": "com.example.chatdox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13888476870-31dhjtd4mpqunur03kna9d16j64ob9gp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatdox",
+            "certificate_hash": "edefa256ab9165a681fc0310108689fcfade1f41"
+          }
+        },
+        {
+          "client_id": "13888476870-rarosgcjv093pbo06leb1o9ivakejabt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNTQvjpSUSz89nuwIorT556wsVPE0N6-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13888476870-rarosgcjv093pbo06leb1o9ivakejabt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
